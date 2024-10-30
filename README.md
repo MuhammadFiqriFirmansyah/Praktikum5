@@ -120,3 +120,7 @@ class Segitiga extends BangunDatar {
 ```
 
 ![](ss/Segitiga.jpeg)
+
+## Output
+
+![](ss/Output.jpeg)
